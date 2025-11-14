@@ -4,7 +4,7 @@ This project, contained in the `AI_Agent.ipynb` notebook, demonstrates the creat
 
 The primary example dataset used is an emissions audit log (`su_emission_audit.parquet`).
 
-## 🚀 Features & Demonstrations
+##  Features & Demonstrations
 
 The notebook is divided into three main demonstrations:
 
